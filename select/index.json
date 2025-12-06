@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "宿木",
+  "base_artist": "理芽",
+  "createdAt": "2025-12-06T04:36:38.406939Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宿木",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/01_宿木_理芽.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宿木",
+      "artist": "RIM (理芽)",
+      "has_synced": true,
+      "path": "select/02_宿木_RIM_(理芽).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宿木",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_宿木_理芽.txt"
+    }
+  ]
+}
